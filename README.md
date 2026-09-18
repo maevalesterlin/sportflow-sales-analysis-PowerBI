@@ -48,16 +48,16 @@ Analyse de l'évolution du chiffre d'affaires et de la marge.
 Analyse de la contribution des produits, catégories et gammes au chiffre d'affaires et à la rentabilité.
 
 ### 4. Performance marketing
-Analyse du chiffre d'affaires, de la marge et des dépenses marketing par canal.
+Analyse du chiffre d'affaires, de la marge et des dépenses marketing et du ROAS par canal.
 
-### 5. Impact des remises
-Analyse du niveau des remises et de leur relation avec la rentabilité des produits.
+### 5. Suivi des leviers commerciaux
+Analyse du niveau des remises et des indicateurs de rentabilité.
 
 ---
 
 ## 📊 Dashboard
 
-![Dashboard SportFlow](assets/dashboard.png)
+![Dashboard SportFlow](Dashboard.png)
 
 Le dashboard permet d'explorer les performances commerciales à travers plusieurs axes :
 
@@ -68,7 +68,7 @@ Le dashboard permet d'explorer les performances commerciales à travers plusieur
 - Rentabilité
 - Performance marketing
 - ROAS
-- Impact des remises
+- Suivi des remises
 
 Les différents filtres permettent d'explorer les résultats par année, gamme, catégorie et sport.
 
@@ -76,15 +76,17 @@ Les différents filtres permettent d'explorer les résultats par année, gamme, 
 
 ## 💡 Principaux insights
 
-L'analyse met en évidence une progression du chiffre d'affaires entre 2024 et 2025, accompagnée d'une légère diminution du taux de marge.
+L'analyse met en évidence une croissance de **19,61 % du chiffre d'affaires en 2025**, accompagnée d'une progression de la marge et d'une légère baisse du taux de marge.
 
-Les catégories et gammes présentent des niveaux de contribution et de rentabilité différents, tandis que certains produits combinent une contribution importante au chiffre d'affaires avec des niveaux de marge plus faibles.
+Les principaux moteurs de chiffre d'affaires, notamment la gamme **Performance** et la catégorie **Chaussures**, combinent une forte contribution aux ventes et une croissance soutenue, mais présentent un taux de marge inférieur à la moyenne globale.
 
-L'analyse marketing révèle également des écarts d'efficacité importants entre les différents canaux, notamment en termes de ROAS.
+À l'inverse, la catégorie **Textile** et la gamme **Training** présentent un profil combinant contribution au chiffre d'affaires et niveau de rentabilité élevé.
 
-Les remises représentent également un levier à prendre en compte dans l'analyse de la rentabilité.
+L'analyse marketing met en évidence des écarts importants entre les canaux en termes de contribution au chiffre d'affaires et d'efficacité des investissements, avec notamment un **ROAS de 25,51 pour Email**.
 
-Les résultats détaillés et les principales conclusions business sont disponibles dans la section dédiée aux insights.
+Enfin, le taux de remise atteint **9,08 % en 2025**, soit environ **135 K€ de remises**, constituant un point de vigilance dans un contexte de légère baisse du taux de marge.
+
+Les résultats détaillés et les recommandations business sont disponibles dans le fichier [`business_insights.md`](business_insights.md).
 
 ---
 
